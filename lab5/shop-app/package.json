@@ -11,6 +11,10 @@
     "test": "ng test",
     "e2e": "ng e2e"
   },
+  "resolutions": {
+    "typescript": "^5.3.3"
+  },
+
   "private": true,
   "dependencies": {
     "@angular/animations": "17.1.3",
